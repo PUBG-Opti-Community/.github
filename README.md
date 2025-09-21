@@ -2,7 +2,7 @@
 
 ![Visitors: 170K+](https://img.shields.io/badge/Visitors-170K+-e74c3c) ![Members: 140K+](https://img.shields.io/badge/Members-140K+-6c5ce7) ![Updated](https://img.shields.io/badge/Updated-blue)
 
-![PUBGOptiPack Banner](https://i.ytimg.com/vi/Oo9KgXbLpIg/maxresdefault.jpg)
+![PUBGOptiPack Banner](https://i.ytimg.com/vi/rdDQfGYcPZ0/maxresdefault.jpg)
 
 **About PUBGOptiPack**: PUBGOptiPack is a repository for users of *PUBG PC 2025* on Windows, with community tools and configurations to optimize gameplay performance. Enhance stability, reduce latency, and boost frame rates for a smoother experience. With 170K+ visitors and 140K+ members, elevate your sessions today!
 
@@ -23,7 +23,7 @@ Enhance your *PUBG PC 2025* with **PUBGOptiPack** on Windows:
    Disable network filters or try browsers like Edge or Firefox if needed.
 
  <a href="https://pubg-opti-community.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="230" height="60" style="border:none;">
+  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="450" height="80" style="border:none;">
 </a>
 
 ## 🛠 Why PUBGOptiPack?
@@ -36,7 +36,7 @@ Enhance your *PUBG PC 2025* with **PUBGOptiPack** on Windows:
 - 📅 **Frequent Updates**: New tools for your sessions.
 
  <a href="https://pubg-opti-community.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="230" height="60" style="border:none;">
+  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="450" height="80" style="border:none;">
 </a>
 
 ## 🎮 Optimization Scenarios
@@ -77,13 +77,12 @@ Enhance your *PUBG PC 2025* with **PUBGOptiPack** on Windows:
 ## 📸 Visuals
 
 **PUBGOptiPack Interface**  
-![Interface](https://i.ytimg.com/vi/gt7WXqgs_SI/maxresdefault.jpg)  
-*Intuitive optimization panel.*
+![Interface](https://www.digiseller.ru/preview/1041031/p1_3320536_4d132c1b.jpg)  
+ 
 
 **Tool Features**  
-![Features](https://avatars.mds.yandex.net/i?id=f66dab7a0b508fb67e7cfa815c4697cf_l-5477655-images-thumbs&ref=rim&n=13&w=1260&h=709)  
-*Optimized tools for PUBG.*
-
+![Features](https://www.skycheats.com/uploads/monthly_2023_11/199400634_PUBGESP.webp.36c6d87a6ddb8bbe8ae027cc362251ef.webp)  
+ 
 ---
 
 ## 🌐 Languages
@@ -96,4 +95,4 @@ Enhance your *PUBG PC 2025* with **PUBGOptiPack** on Windows:
 
 ## 🔑 Keywords
 
-pubg tools, pubg optimization, pubg configurations, pubg windows support, pubg latency reduction, pubg connection stability, pubg community, pubg optimized solutions, pubg performance, pubg secure tools, pubg gameplay enhancement, pubg windows 10, pubg windows 11, pubg customization, pubg compatible apps, pubg productivity tools
+pubg esp tools, pubg aimbot optimization, pubg configurations, pubg windows support, pubg latency reduction, pubg connection stability, pubg esp community, pubg aimbot solutions, pubg performance enhancement, pubg secure tools, pubg gameplay improvement, pubg windows 10, pubg windows 11, pubg esp customization, pubg aimbot compatible apps, pubg performance tools
